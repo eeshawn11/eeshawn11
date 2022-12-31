@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently a full-time Data Science Immersive student with General Assembly Singapore and excited to join the data community.
+I'm currently a full-time Data Science Immersive student with General Assembly Singapore and excited to join the data community. Coming from a Hospitality background, this has been quite a shift in my career trajectory, but I've been fully enjoying my time picking up new skills like Python and SQL as I navigate my way through this exciting terrain.
 
-<a href="https://www.linkedin.com/in/shawn-sing/" target="_blank" rel="noopener noreferrer"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" height="18"/></a> Happy to connect on LinkedIn, and also currently in search of a job. :wink:
+<a href="https://www.linkedin.com/in/shawn-sing/" target="_blank" rel="noopener noreferrer"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" height="18"/></a> Happy to connect on LinkedIn, and also currently in search of a job. \**hint hint*\* :wink:
 
 ---
 
