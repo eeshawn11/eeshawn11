@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm currently a full-time Data Science Immersive student with General Assembly Singapore and excited to join the data community.
+
+<a href="https://www.linkedin.com/in/shawn-sing/" target="_blank" rel="noopener noreferrer"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="LinkedIn Logo" height="18"/></a> Happy to connect on LinkedIn, and also currently in search of a job. :wink:
+
+---
+
+⚡ Fun fact: I enjoy photography as a hobby, especially while travelling. Check out some of my photos [here](https://eeshawn.tumblr.com) and [there](https://www.flickr.com/photos/ee_shawn/).
+
 <!--
 **eeshawn11/eeshawn11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
