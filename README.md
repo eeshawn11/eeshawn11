@@ -5,6 +5,9 @@ I am currently a full-time Data Science Immersive student with General Assembly 
 ### <img src="./general-assembly-space-academy.png" alt="General Assemly Logo" height="20"> [Data Science Immersive Projects](https://github.com/eeshawn11/DSI33-Shawn)
 A collection of the various projects completed during my 12 week immersive with General Assembly.
 
+### :camera: [Capstone Project - Image Caption Generator](https://github.com/eeshawn11/DSI-Capstone)
+Capstone project from Data Science Immersive. Training an image caption generator with attention mechanism using TensorFlow and Keras.
+
 ### :roller_coaster: [Side Projects](https://github.com/eeshawn11/DSI33-Shawn/tree/main/Side_Projects)
 Some random projects that I have been working on during my free time.
 
