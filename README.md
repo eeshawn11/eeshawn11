@@ -9,7 +9,7 @@ I am a full-time Data Science Immersive graduate from General Assembly Singapore
 ---
 
 ### 🏄‍♂️: [Capstone Project - Image Caption Generator](https://github.com/eeshawn11/DSI-Capstone)
-Capstone project from Data Science Immersive. Training an image caption generator with attention mechanism using TensorFlow and Keras.
+Capstone project from Data Science Immersive. Trained an image caption generator with attention mechanism using TensorFlow and Keras, deployed using [Streamlit](https://eeshawn-dsi-capstone.streamlit.app/).
 
 ### <img src="./general-assembly-space-academy.png" alt="General Assemly Logo" height="20"> [Data Science Immersive Projects](https://github.com/eeshawn11/DSI33-Shawn)
 A collection of the various projects completed during my 12 week immersive with General Assembly.
