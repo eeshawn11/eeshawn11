@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a full-time Data Science Immersive graduate from General Assembly Singapore and excited to join the data community. Coming from a Hospitality background, this has been quite a major shift in my career trajectory, but I've been fully enjoying my time picking up new skills like Python and SQL as I navigate my way thorugh these uncharted waters.
+I am a Data Science Immersive graduate from General Assembly Singapore and new to the data community! Coming from a Hospitality background, this has been quite a major shift in my career trajectory, but I've been fully enjoying my time picking up new skills like Python and SQL as I navigate my way thorugh these uncharted waters.
 
 <a href="https://www.linkedin.com/in/shawn-sing/" target="_blank" rel="noopener noreferrer"><img src="./linkedin_original.svg" alt="LinkedIn Logo" height="18"/></a> Happy to connect on LinkedIn, and also currently in search of a job. \**hint hint*\* :wink:
 
