@@ -13,7 +13,7 @@ A collection of various projects completed during my 12 week immersive with Gene
 
 **Skills Demonstrated:**
 
-- Regression, classification and ensemble modelling with `scikit-learn`
+- Supervised machine learning with `scikit-learn`, with a variety of regression, classification and ensemble models
 - Collaboration and version control with `git`
 - Presentation of findings and recommendations at the end of each project
 
