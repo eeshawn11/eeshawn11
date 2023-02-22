@@ -42,17 +42,17 @@ This is an ongoing project to document my learning with using Streamlit and vari
 - Data visualisation with `Vega-Altair` and `Plotly`
 - Python web app deployment with [`streamlit`](https://eeshawn-hdb-resale.streamlit.app/)
 
+---
+
 <!--
-**eeshawn11/eeshawn11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Naruto Hand Seals - Gesture Recognition](https://github.com/eeshawn11/DSI33-Shawn/tree/main/Side_Projects/Naruto_Gesture_Recognition) [WIP]
 
-Here are some ideas to get you started:
+Training and deploying a machine learning model that can recognise 12 basic hand seals from the Naruto anime using TensorFlow's Object Detection API.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+While the model appears to be able to detect and recognise the hand seals that I am making, it also recognises my face as a "rat" seal, so perhaps there's more to be done to overcome this. Next step would also include deploying the model online, so you could also give it a try!
+
+**Skills Demonstrated:**
+
+- Collecting and building my own dataset using `OpenCV` and annotating the collected images with `LabelImg`
+- Transfer learning using a pre-trained network with `TensorFlow` Object Detection API
 -->
