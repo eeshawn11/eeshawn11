@@ -9,7 +9,7 @@ I am a Data Science Immersive graduate from General Assembly Singapore and new t
 ---
 
 ## <img src="./general-assembly-space-academy.png" alt="General Assemly Logo" height="20"> [Data Science Immersive Projects](https://github.com/eeshawn11/DSI33-Shawn)
-A collection of various projects completed during my 12 week immersive with General Assembly.
+A collection of various projects completed during my 12-week immersive with General Assembly.
 
 **Skills Demonstrated:**
 
@@ -18,7 +18,9 @@ A collection of various projects completed during my 12 week immersive with Gene
 - Presentation of findings and recommendations at the end of each project
 
 ### :surfer: [Capstone - Image Caption Generator](https://github.com/eeshawn11/DSI-Capstone)
-Capstone project from Data Science Immersive. Trained an image caption generator with attention mechanism that achieved a BLEU-1 score of 0.52 on the [Flickr30k](https://www.kaggle.com/datasets/eeshawn/flickr30k) dataset, deployed using [Streamlit](https://eeshawn-dsi-capstone.streamlit.app/).
+Capstone project from Data Science Immersive. Trained an image caption generator with attention mechanism that achieved a BLEU-1 score of 0.52 on the [Flickr30k](https://www.kaggle.com/datasets/eeshawn/flickr30k) dataset.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eeshawn-dsi-capstone.streamlit.app/)
 
 **Skills Demonstrated:**
 
@@ -40,7 +42,9 @@ This is an ongoing project to document my learning with using Streamlit and vari
 - Data extraction from live Data.gov.sg API
 - Data transformation with `pandas`
 - Data visualisation with `Vega-Altair` and `Plotly`
-- Python web app deployment with [`streamlit`](https://eeshawn-hdb-resale.streamlit.app/)
+- Python web app deployment with `streamlit`
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eeshawn-hdb-resale.streamlit.app/)
 
 ---
 
