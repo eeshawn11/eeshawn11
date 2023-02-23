@@ -8,6 +8,26 @@ I am a Data Science Immersive graduate from General Assembly Singapore and new t
 
 ---
 
+## :roller_coaster: Data Science Projects
+Some projects that I have been working on during my free time.
+
+### :office: [HDB Resale Price Dashboard](https://github.com/eeshawn11/HDB_Resale_Dashboard)
+
+Exploration of data retrieved from [Data.gov.sg](https://data.gov.sg/), in particular HDB resale prices from 2012, to create an interactive dashboard. I am also hopeful that any insights gleaned could be helpful to my own HDB purchase journey, but no fancy prediction model here (yet?), just some charts and maps.
+
+This is an ongoing project to document my learning with using Streamlit and various Python libraries. While such a dashboard could perhaps be more easily created using PowerBI or Tableau, I am also taking the opportunity to explore the various Python plotting libraries and understand their documentation.
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eeshawn-hdb-resale.streamlit.app/)
+
+**Skills Demonstrated:**
+
+- Data extraction from live Data.gov.sg API
+- Data transformation with `pandas`
+- Data visualisation with `Vega-Altair` and `Plotly`
+- Python web app deployment with `streamlit`
+
+---
+
 ## <img src="./general-assembly-space-academy.png" alt="General Assemly Logo" height="20"> [Data Science Immersive Projects](https://github.com/eeshawn11/DSI33-Shawn)
 A collection of various projects completed during my 12-week immersive with General Assembly.
 
@@ -27,26 +47,6 @@ Capstone project from Data Science Immersive. Trained an image caption generator
 
 - Deep learning, computer vision and natural language processing with `TensorFlow` and `Keras`
 - Handling of large dataset using TensorFlow's tf.data API
-
----
-
-## :roller_coaster: Side Projects
-Some random projects that I have been working on during my free time.
-
-### :office: [HDB Resale Price Dashboard](https://github.com/eeshawn11/HDB_Resale_Dashboard)
-
-Exploration of data retrieved from [Data.gov.sg](https://data.gov.sg/), in particular HDB resale prices from 2012, to create an interactive dashboard. I am also hopeful that any insights gleaned could be helpful to my own HDB purchase journey, but no fancy prediction model here (yet?), just some charts and maps.
-
-This is an ongoing project to document my learning with using Streamlit and various Python libraries. While such a dashboard could perhaps be more easily created using PowerBI or Tableau, I am also taking the opportunity to explore the various Python plotting libraries and understand their documentation.
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://eeshawn-hdb-resale.streamlit.app/)
-
-**Skills Demonstrated:**
-
-- Data extraction from live Data.gov.sg API
-- Data transformation with `pandas`
-- Data visualisation with `Vega-Altair` and `Plotly`
-- Python web app deployment with `streamlit`
 
 ---
 
