@@ -31,14 +31,15 @@ This is an ongoing project to document my learning with using Streamlit and vari
 
 Time series forecast using a [dataset](https://www.kaggle.com/datasets/eeshawn/half-hourly-electrical-demand-in-singapore) gathered from the [Energy Market Authority](https://www.ema.gov.sg/index.aspx) of Singapore. The original data is stored in individual weekly Excel files by month and year, which I have scraped from the website and combined into a dataset.
 
-This is a relatively straightforward univariate time series problem involving electricity demand in Singapore. Prophet achieved a Mean Absolute Percentage Error (MAPE) of **3.67%** when predicting for demand in January 2023.
+This is a relatively straightforward univariate time series problem involving electricity demand in Singapore and Prophet achieved a Mean Absolute Percentage Error (MAPE) of **3.67%** when predicting for demand in January 2023.
 
 [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/eeshawn/time-series-forecasting-with-prophet)
 
 Skills Demonstrated:
 
-- Web scraping with `Selenium`
+- Extracting data through Web scraping with `Selenium`
 - Data transformation with `pandas`
+- Loading and storing data into `Kaggle` dataset
 - Time series forecast with Facebook `Prophet`
 
 ---
