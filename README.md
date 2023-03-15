@@ -83,22 +83,15 @@ Capstone project from Data Science Immersive. Trained an image caption generator
 
 ### :running: [Running Man](https://github.com/eeshawn11/Running_Man)
 
+Developed a game to familiarise with Object-Oriented Programming (OOP) and writing more efficient code.
+
 **Skills Demonstrated:**
 
 - Designing and coding game mechanics with `PyGame`
 - `Object-Oriented Programming`in Python
 
-
 <!--
-### [Naruto Hand Seals - Gesture Recognition](https://huggingface.co/eeshawn11/naruto_hand_seal_detection)
-
-Training and deploying a machine learning model that can recognise 12 basic hand seals from the Naruto anime using transfer learning with YOLOv8.
-
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/eeshawn11/naruto_hand_seals)
-
-**Skills Demonstrated:**
-
-- Collecting and building my own dataset using `OpenCV`
-- Image annotation with `LabelImg`
-- Transfer learning using a pre-trained `YOLOv8` model
+To-do list.
+- Work on a GitHub Pages to showcase projects
+- Include more images.
 -->
