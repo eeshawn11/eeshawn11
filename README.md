@@ -8,8 +8,7 @@ I am a Data Science Immersive graduate from General Assembly Singapore and new t
 
 ---
 
-## :roller_coaster: Data Science Projects
-Some projects that I have been working on during my free time.
+## :chart_with_upwards_trend: Data Science Projects
 
 ### :office: [HDB Resale Price Dashboard](https://github.com/eeshawn11/HDB_Resale_Dashboard)
 
@@ -27,7 +26,7 @@ This is an ongoing project to document my learning with using Streamlit and vari
 - Data visualisation with `Vega-Altair` and `Plotly`
 - Web app deployment with `streamlit`
 
-### :electric_plug: [Time Series Forecasting with Prophet](https://github.com/eeshawn11/Time-Series-Forecasting)
+### :electric_plug: [Electricity Demand Forecasting with Prophet](https://github.com/eeshawn11/Time-Series-Forecasting)
 
 Time series forecast using a [dataset](https://www.kaggle.com/datasets/eeshawn/half-hourly-electrical-demand-in-singapore) gathered from the [Energy Market Authority](https://www.ema.gov.sg/index.aspx) of Singapore. The original data is stored in individual weekly Excel files by month and year, which I have scraped from the website and combined into a dataset.
 
@@ -41,6 +40,18 @@ Skills Demonstrated:
 - Data transformation with `pandas`
 - Loading and storing data into `Kaggle` dataset
 - Time series forecast with Facebook `Prophet`
+
+### :fist: [Naruto Hand Seals - Gesture Recognition](https://huggingface.co/eeshawn11/naruto_hand_seal_detection)
+
+Training and deploying a machine learning model that can recognise 12 basic hand seals from the Naruto anime using transfer learning with YOLOv8.
+
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/eeshawn11/naruto_hand_seals)
+
+**Skills Demonstrated:**
+
+- Collecting and building my own dataset using `OpenCV`
+- Image annotation with `LabelImg`
+- Transfer learning using a pre-trained `YOLOv8` model
 
 ---
 
@@ -68,15 +79,26 @@ Capstone project from Data Science Immersive. Trained an image caption generator
 
 ---
 
-<!--
-### [Naruto Hand Seals - Gesture Recognition](https://github.com/eeshawn11/DSI33-Shawn/tree/main/Side_Projects/Naruto_Gesture_Recognition) [WIP]
+## :chart_with_upwards_trend: Side Projects
 
-Training and deploying a machine learning model that can recognise 12 basic hand seals from the Naruto anime using TensorFlow's Object Detection API.
-
-While the model appears to be able to detect and recognise the hand seals that I am making, it also recognises my face as a "rat" seal, so perhaps there's more to be done to overcome this. Next step would also include deploying the model online, so you could also give it a try!
+### :running: [Running Man](https://github.com/eeshawn11/Running_Man)
 
 **Skills Demonstrated:**
 
-- Collecting and building my own dataset using `OpenCV` and annotating the collected images with `LabelImg`
-- Transfer learning using a pre-trained network with `TensorFlow` Object Detection API
+- Designing and coding game mechanics with `PyGame`
+- `Object-Oriented Programming`in Python
+
+
+<!--
+### [Naruto Hand Seals - Gesture Recognition](https://huggingface.co/eeshawn11/naruto_hand_seal_detection)
+
+Training and deploying a machine learning model that can recognise 12 basic hand seals from the Naruto anime using transfer learning with YOLOv8.
+
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/eeshawn11/naruto_hand_seals)
+
+**Skills Demonstrated:**
+
+- Collecting and building my own dataset using `OpenCV`
+- Image annotation with `LabelImg`
+- Transfer learning using a pre-trained `YOLOv8` model
 -->
