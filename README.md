@@ -87,8 +87,9 @@ Developed a game to familiarise with Object-Oriented Programming (OOP) and writi
 
 **Skills Demonstrated:**
 
-- Designing and coding game mechanics with `PyGame`
+- Designing and coding game mechanics with `PyGame`, such as collision detection
 - `Object-Oriented Programming`in Python
+- Program testing and debugging
 
 <!--
 To-do list.
