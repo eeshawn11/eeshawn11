@@ -83,7 +83,7 @@ Capstone project from Data Science Immersive. Trained an image caption generator
 
 ### :running: [Running Man](https://github.com/eeshawn11/Running_Man)
 
-Developed a game to familiarise with Object-Oriented Programming (OOP) and writing more efficient code.
+Developed a game to familiarise with Object-Oriented Programming (OOP) and working with Classes. While the game concept was simple, it was interesting figuring out how to code various aspects of the game, such as collision detection and handling user input.
 
 **Skills Demonstrated:**
 
