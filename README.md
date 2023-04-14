@@ -6,7 +6,7 @@ I am a Data Science Immersive graduate from General Assembly Singapore and new t
 
 :camera_flash: Fun fact: I enjoy photography as a hobby, especially while travelling. Check out some of my photos [here](https://eeshawn.tumblr.com) and [there](https://www.flickr.com/photos/ee_shawn/).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeshawn11&layout=compact&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeshawn11&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
