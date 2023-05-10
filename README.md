@@ -26,7 +26,7 @@ This is an ongoing project to document my learning with using Streamlit and vari
 - Data transformation with `pandas`
 - Working with geospatial data using OneMap [API](https://www.onemap.gov.sg/docs/), `Shapely` and `Mapbox`
 - Data visualisation with `Vega-Altair` and `Plotly`
-- Web app deployment with `streamlit`
+- Web app deployment with `Streamlit`
 
 ### :electric_plug: [Electricity Demand Forecasting with Prophet](https://github.com/eeshawn11/Time-Series-Forecasting)
 
@@ -77,7 +77,7 @@ Capstone project from Data Science Immersive. Trained an image caption generator
 
 - Deep learning, computer vision and natural language processing with `TensorFlow` and `Keras`
 - Handling of large dataset using TensorFlow's tf.data API
-- Deployment of custom Keras model to `streamlit` web app
+- Deployment of custom Keras model to `Streamlit` web app
 
 ---
 
@@ -90,11 +90,10 @@ Developed a game to familiarise with Object-Oriented Programming (OOP) and worki
 **Skills Demonstrated:**
 
 - Designing and coding game mechanics with `PyGame`, such as collision detection
-- `Object-Oriented Programming`in Python
+- `Object-Oriented Programming` in Python
 - Program testing and debugging
 
 <!--
 To-do list.
-- Work on a GitHub Pages to showcase projects
 - Include more images.
 -->
